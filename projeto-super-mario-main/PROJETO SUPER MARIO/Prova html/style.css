@@ -1,0 +1,50 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+}
+header{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 10px;
+}
+.bone{
+    width: 30px;
+}
+ul{
+    list-style: none;
+    text-decoration: none;
+    display: flex;
+    gap: 15px;
+    font-size: 15px;
+}
+a{
+    text-decoration: none;
+    color: black;
+}
+.redes img{
+    width: 25px;
+    gap: 30px;
+}
+.logos{
+    display: flex;
+    gap: 30px;
+}
+main{
+    justify-content: space-between;
+    display: flex;
+}
+.logomovie{
+    width: 300px;
+    margin-top: 80px;
+}
+.irmaos img{
+    width: 500px;
+    margin-top: 30px;
+}
+main p{
+    margin-top: 40px;
+}
+body{
+    margin: 30px;
+}
